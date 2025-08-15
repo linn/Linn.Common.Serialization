@@ -11,7 +11,7 @@ if [ "${TRAVIS_BRANCH}" = "main" ]; then
 
     # todo - work out how to obtain package path from the previous commands
     # as opposed to having to hardcode name/version here
-    PACKAGE_PATH=src/bin/Release/Linn.Common.Serialization.1.0.0.nupkg
+    PACKAGE_PATH=src/bin/Release/Linn.Common.Serialization.3.0.0.nupkg
 
     dotnet nuget push "$PACKAGE_PATH" \
       --api-key "$NUGET_API_KEY" \
