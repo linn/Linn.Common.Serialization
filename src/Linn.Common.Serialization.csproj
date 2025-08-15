@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<Description>Utility library for Serializing data</Description>
+		<Description>Utilities for serializing and deserializing data into various response formats.</Description>
 		<TargetFramework>net9.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<AssemblyName>Linn.Common.Serialization</AssemblyName>
