@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<AssemblyName>Linn.Common.Serialization</AssemblyName>
 		<PackageId>Linn.Common.Serialization</PackageId>
-		<Version>1.0.0</Version>
+		<Version>3.0.0</Version>
 	  <Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
